@@ -1,5 +1,5 @@
 # Page header
-Hello Nebraska.code()
+Hello!
 
 ## H2
 
